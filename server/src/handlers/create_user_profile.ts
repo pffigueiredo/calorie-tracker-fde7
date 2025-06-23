@@ -1,4 +1,3 @@
-
 import { db } from '../db';
 import { userProfilesTable } from '../db/schema';
 import { type CreateUserProfileInput, type UserProfile } from '../schema';

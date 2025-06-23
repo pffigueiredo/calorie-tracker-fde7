@@ -1,4 +1,3 @@
-
 import { db } from '../db';
 import { foodLogEntriesTable, userProfilesTable } from '../db/schema';
 import { type CreateFoodLogEntryInput, type FoodLogEntry } from '../schema';

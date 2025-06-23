@@ -1,4 +1,3 @@
-
 import { db } from '../db';
 import { userProfilesTable, foodLogEntriesTable } from '../db/schema';
 import { type GetDailySummaryInput, type DailySummary } from '../schema';
